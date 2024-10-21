@@ -5,4 +5,5 @@ Tuggas membuat prototype "Pengenalan Telapak Tangan"
 
 # link
 data source for dataset (ROI images): https://cslinzhang.github.io/ContactlessPalm/
+<br />
 presentation slide:
